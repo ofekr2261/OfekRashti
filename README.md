@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ofek Rashti</h1>
 <h3 align="center">Frontend / Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (JavaScript, React.js, Vuex, Node.js, Vue.js, Angular, MongoDB, etc).</h3>
 
-
+<br>
 
 • 🧲 A people's person and a tech lover. Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!
 
