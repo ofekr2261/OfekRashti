@@ -2,6 +2,7 @@
 <h3 align="center">Frontend / Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (JavaScript, React.js, Vuex, Node.js, Vue.js, Angular, MongoDB, etc).</h3>
 
 
+
 • 🧲 A people's person and a tech lover. Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!
 
 • 🌴 Proficient in building single-page apps. 
@@ -15,6 +16,7 @@
 • 📫 You can reach me at **ofekr2261@gmail.com**
 
 • 📄 Know about my experiences **I'm graduate of the Coding Academy - 640 hours of an intensive coding bootcamp that qualifies Full-Stack developers.**
+
 
 
 <h3 align="left">Connect with me:</h3>
